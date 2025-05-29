@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalpana-sketch
 - 👀 I’m interested in WebDev, Java
 - 🌱 I’m currently learning WebDev, Git, DSA
-- 💞️ I’m looking to collaborate on intresting projects, making games or websites
+- 💞️ I’m looking to collaborate on interesting projects, making games or websites
 - 📫 How to reach me nemopal50@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I have recently started learning coding, but wishes to learn well.
